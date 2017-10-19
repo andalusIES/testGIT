@@ -1,6 +1,6 @@
 # testGIT
-Proyecto para aprender a usar GIT en clase
+Proyecto para aprender a usar GIT en clahse
 
-Hola soy raúl
+hola soy gloria
 
-A ver que pasa
+
