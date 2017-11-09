@@ -1,6 +1,7 @@
 # testGIT
 Proyecto para aprender a usar GIT en clahse
-Hey how you doin'?
+
+How you doin'?
 
 hola soy Gloria.
 
