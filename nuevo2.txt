@@ -1,3 +1,3 @@
-este también es nuevo...y con él vamos a seguir por ahora.
+este también es nuevo...y con él vamos a seguir por ahora...
 
 pero no fue creado por mi... he escrito esta línea para provocar una colisión con branch 0.1
