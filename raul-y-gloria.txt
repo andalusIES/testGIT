@@ -1,4 +1,8 @@
 y otro fichero nuevo que no tenías
 me lo voy a inventar yo
+<<<<<<< HEAD
 
 
+=======
+hola soy sara
+>>>>>>> 271d5cf247a2c6f38b999e7925fb6ef4d8d31672
