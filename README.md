@@ -1,28 +1,4 @@
 # testGIT
-Proyecto para aprender a usar GIT en clahse
+Proyecto para aprender a usar GIT en clase
 
-How you doin'?
-
-hola soy Gloria.
-
-qué pasa? soy profeIAP
-
-Yo estoy cambiando el fichero -- jasv
-uououo
-A ver que pasa
-
-
-No me quedo
-
-
-
-Buenas tardes soy Jesús Lobato el potro
-
-Que hay
-
-
-Hola Flash
-
-prrrrrrrrrrr
-
-hellow ki ti pasa
+TONTO QUIEN LO LEA xdd
